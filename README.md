@@ -23,5 +23,5 @@ Repositório de resumo de materias aprendidas no lab da dio.
 
 - CAPEX envolve gasto inicial em infraestrutura, enquanto OPEX utiliza modelo de pagamento por uso
 
-- 📚 **Resumo em Texto:** [www.gonzagadev.notion.site](https://gonzagadev.notion.site/Introdu-o-a-Computa-o-em-Nuvem-10aaa3435943804bae13dfa215383405)
+- 📚 **Resumo em Texto:** [www.gonzagadev.notion.intro_nuvem](https://gonzagadev.notion.site/Introdu-o-a-Computa-o-em-Nuvem-10aaa3435943804bae13dfa215383405)
 
