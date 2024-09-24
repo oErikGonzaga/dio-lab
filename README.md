@@ -1,7 +1,12 @@
 # dio-lab
 Repositório de resumo de materias aprendidas no lab da dio.
 
+&nbsp;
+
+
 ## Introdução a Computação em Nuvem
+
+&nbsp;
 
 **Conceitos Básicos de Cloud Computing**
 
@@ -30,3 +35,6 @@ Repositório de resumo de materias aprendidas no lab da dio.
 &nbsp;
 
 ## Benefícios a Computação em Nuvem
+
+&nbsp;
+
