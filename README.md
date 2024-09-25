@@ -38,3 +38,17 @@ Repositório de resumo de materias aprendidas no lab da dio.
 
 &nbsp;
 
+**Principais Benefícios da Computação Azure**
+
+- Alta disponibilidade: Garante o funcionamento dos serviços conforme o SLA contratado, com compensação em caso de falhas
+- Escalabilidade e Elasticidade: Permite ajustar recursos conforme a demanda, pagando apenas pelo uso
+- Confiabilidade: Oferece infraestrutura resiliente e acesso a recursos em diversas regiões do mundo
+- Previsibilidade: Facilita a transição e crescimento tecnológico das empresas
+
+**Aspectos de Gerenciamento**
+
+- Segurança: Responsabilidades compartilhadas entre o provedor e o cliente, dependendo do modelo de implantação
+- Governança: Garante o cumprimento de regras corporativas através de auditorias e ferramentas de gerenciamento
+- Gerenciabilidade: Permite criar e gerenciar implantações através de diferentes interfaces, como Portal Web, Linhas de Comando, APIs e PowerShell
+
+- 📚 **Resumo em Texto:** [www.gonzagadev.notion.beneficios_nuvem](https://gonzagadev.notion.site/Benef-cios-da-Computa-o-Azure-10baa343594380ca8a16e9d49cec8c61)
