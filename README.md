@@ -52,3 +52,11 @@ Repositório de resumo de materias aprendidas no lab da dio.
 - Gerenciabilidade: Permite criar e gerenciar implantações através de diferentes interfaces, como Portal Web, Linhas de Comando, APIs e PowerShell
 
 - 📚 **Resumo em Texto:** [www.gonzagadev.notion.beneficios_nuvem](https://gonzagadev.notion.site/Benef-cios-da-Computa-o-Azure-10baa343594380ca8a16e9d49cec8c61)
+
+&nbsp;
+
+&nbsp;
+
+## Tipos de Serviços de Nuvem
+
+&nbsp;
