@@ -31,7 +31,7 @@ Repositório de resumo de materias aprendidas no lab da dio.
 - 📚 **Resumo em Texto:** [www.gonzagadev.notion.intro_nuvem](https://gonzagadev.notion.site/Introdu-o-a-Computa-o-em-Nuvem-10aaa3435943804bae13dfa215383405)
 
 &nbsp;
----
+
 &nbsp;
 
 ## Benefícios a Computação em Nuvem
