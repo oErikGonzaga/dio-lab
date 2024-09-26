@@ -60,3 +60,21 @@ Repositório de resumo de materias aprendidas no lab da dio.
 ## Tipos de Serviços de Nuvem
 
 &nbsp;
+
+**Tipos de Serviços de Nuvem na Azure**
+
+- IaaS (Infraestrutura como Serviço): Cliente tem mais controle e responsabilidades sobre os recursos
+- PaaS (Plataforma como Serviço): Foco em criar, testar e implantar aplicativos, sem gerenciar infraestrutura
+- SaaS (Software como Serviço): Acesso baseado em licenças, com funcionalidades determinadas pelo tipo de assinatura
+
+**Modelo de Responsabilidade Compartilhada**
+
+- On Premise: Cliente é responsável por tudo, desde hardware até usuários
+- Nuvem: Responsabilidades variam entre provedor e cliente conforme o modelo (IaaS, PaaS, SaaS)
+- Quanto mais gerenciado o serviço, menos responsabilidades para o cliente, mas maior o custo
+
+**Conclusão**
+
+- IaaS oferece mais flexibilidade, PaaS foca no desenvolvimento, e SaaS é baseado em assinatura e uso
+  
+- 📚 **Resumo em Texto:** [www.gonzagadev.notion.servicos_nuvem](https://gonzagadev.notion.site/Tipos-de-Servi-o-de-Nuvem-10daa34359438027a478f579f84505c0)
