@@ -27,7 +27,7 @@ Neste caso a Microsoft fornece um contrato que garante o funcionamento de seus p
 
 Quando uma falha acontece o suporte é constantemente atualizado em relação a falha e até mesmo ao tipo de falha, que podem ser : falhas transitórias ou falhas duradouras. Assim também como falhas de escopo que podem atingir (do menor para o maior) : Maquinas, Serviço e de Região.
 
-![image.png](image.png)
+![image.png](https://github.com/oErikGonzaga/dio-lab/blob/main/images/region_services_machines.png?raw=true)
 
 A alta disponibilidade foca em garantir a disponibilidade maxima, independente dos eventos que ocorram. Mas para isso existem serviços que garantem esse alta disponibilidade, como alguns serviços de redundância ou região.
 
