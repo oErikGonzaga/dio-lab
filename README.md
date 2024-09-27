@@ -28,7 +28,7 @@ Repositório de resumo de materias aprendidas no lab da dio.
 
 - CAPEX envolve gasto inicial em infraestrutura, enquanto OPEX utiliza modelo de pagamento por uso
 
-- 📚 **Resumo em Texto:** [www.gonzagadev.notion.intro_nuvem](https://github.com/oErikGonzaga/dio-lab/blob/main/Resumos/Intro_computacao_nuvem.md)
+- 📚 **Resumo em Texto:** [Introdução a Computação em Nuvem](https://github.com/oErikGonzaga/dio-lab/blob/main/Resumos/Intro_computacao_nuvem.md)
 
 &nbsp;
 
@@ -51,7 +51,7 @@ Repositório de resumo de materias aprendidas no lab da dio.
 - Governança: Garante o cumprimento de regras corporativas através de auditorias e ferramentas de gerenciamento
 - Gerenciabilidade: Permite criar e gerenciar implantações através de diferentes interfaces, como Portal Web, Linhas de Comando, APIs e PowerShell
 
-- 📚 **Resumo em Texto:** [www.gonzagadev.notion.beneficios_nuvem](https://github.com/oErikGonzaga/dio-lab/blob/main/Resumos/Beneficios_computacao_nuvem.md)
+- 📚 **Resumo em Texto:** [Benefícios a Computação em Nuvem](https://github.com/oErikGonzaga/dio-lab/blob/main/Resumos/Beneficios_computacao_nuvem.md)
 
 &nbsp;
 
@@ -77,4 +77,4 @@ Repositório de resumo de materias aprendidas no lab da dio.
 
 - IaaS oferece mais flexibilidade, PaaS foca no desenvolvimento, e SaaS é baseado em assinatura e uso
   
-- 📚 **Resumo em Texto:** [www.gonzagadev.notion.servicos_nuvem](https://github.com/oErikGonzaga/dio-lab/blob/main/Resumos/Tipos_servi%C3%A7os_nuvem.md)
+- 📚 **Resumo em Texto:** [Tipos de Serviços de Nuvem](https://github.com/oErikGonzaga/dio-lab/blob/main/Resumos/Tipos_servi%C3%A7os_nuvem.md)
